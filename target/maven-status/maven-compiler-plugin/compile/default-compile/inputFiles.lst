@@ -1,0 +1,13 @@
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\AuthServiceApplication.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\controller\AuthController.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\dto\AuthUserDto.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\dto\NewUserDto.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\dto\RequestDto.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\dto\TokenDto.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\model\AuthUser.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\repository\AuthUserRepository.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\security\JwtProvider.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\security\PasswordEncoderConfig.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\security\RouteValidator.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\security\SecurityConfig.java
+C:\Users\Netec\Desktop\LAB3\auth-service\src\main\java\com\auth\jwt\service\AuthService.java
